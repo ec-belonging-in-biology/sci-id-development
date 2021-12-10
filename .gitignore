@@ -1,2 +1,13 @@
 *.ai
 *.aic
+*.bbl
+*.bcf
+*.fdb_latexmk
+*.fls
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+/paper/*.log
+*.blg
+*.aux
