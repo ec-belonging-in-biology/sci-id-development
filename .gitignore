@@ -1,5 +1,3 @@
-*.ai
-*.aic
 *.bbl
 *.bcf
 *.fdb_latexmk
@@ -11,3 +9,4 @@
 /paper/*.log
 *.blg
 *.aux
+/.vscode/*
