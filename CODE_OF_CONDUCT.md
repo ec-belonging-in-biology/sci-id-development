@@ -30,7 +30,7 @@ Participants are expected to:
 * Remain empathetic and kind to one another
 * Respect differing opinions, perspectives, and experiences
 * Give and receive constructive criticism gracefully
-* Accept responsibility, apologize, remedy their impact, and remain respectful when they make mistakes and then leanr from them
+* Accept responsibility, apologize, remedy their impact, and remain respectful when they make mistakes and then learn from them
 * Make claims based upon cited evidence
 * Act in interest of the whole community rather than the individual
 * Advocate for others
@@ -90,7 +90,7 @@ Depending on the magnitude of the impact, any number of the following sanctions 
 
 **Impact**: An impact with a relatively low impact that does not cause any time-sensative harm may be given a warning.
 
-**Sanction**: A warning will be administered to the participant with a descriptions of how they violated the code of conduct and a definition of further sanctions for continued behavior. Expectations that the participant corrects their contribution within 21 days of the warning being given will be established. The participant's correction will be guided and evaluated by leaders and/or maintainers and then approved, edited, or rejected. Failure to correct the contribution with 21 days may result in further sanctions and/or removal of the contribution.
+**Sanction**: A warning will be administered to the participant with a descriptions of how they violated the code of conduct and a definition of further sanctions for continued behavior. Expectations that the participant corrects their contribution within 21 days of the warning being given will be established. The participant's correction will be guided and evaluated by leaders and/or maintainers and then approved, edited, or rejected. Failure to correct the contribution within 21 days may result in further sanctions and/or removal of the contribution.
 
 #### 3.2 Temporary Ban
 
