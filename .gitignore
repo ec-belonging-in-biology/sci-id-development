@@ -9,4 +9,5 @@
 /paper/*.log
 *.blg
 *.aux
-/.vscode/*
+.vscode/*
+.vscode/
