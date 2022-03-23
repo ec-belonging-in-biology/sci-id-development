@@ -8,14 +8,14 @@
     - [Standard response formats](#standard-response-formats)
     - [Section A - 🤸‍♀️ Activity](#section-a---%EF%B8%8F-activity)
     - [Section B - 🧍‍♂️ Disability & Neurodivergence](#section-b---%EF%B8%8F-disability--neurodivergence)
-    - [Section C. 🤠 Experiences](#section-c--experiences)
-    - [Section D. 🗺 Origin & Language](#section-d--origin--language)
-    - [Section E. 💌 Prior Education & Support](#section-e--prior-education--support)
-    - [Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity](#section-f--race--ethnicity)
-    - [Section G. 🛐 Religion](#section-g--religion)
-    - [Section H. ⭕ Sex & Gender](#section-h--sex--gender)
-    - [Section I. 👩🏿‍🤝‍👩🏻 Sexuality](#section-i--sexualityy)
-    - [Section J. 💵 Socioeconomic status](#section-j--socioeconomic-status)
+    - [Section C - 🤠 Experiences](#section-c--experiences)
+    - [Section D - 🗺 Origin & Language](#section-d--origin--language)
+    - [Section E - 💌 Prior Education & Support](#section-e--prior-education--support)
+    - [Section F - 👩🏻‍🤝‍🧑🏿 Race & Ethnicity](#section-f--race--ethnicity)
+    - [Section G - 🛐 Religion](#section-g--religion)
+    - [Section H - ⭕ Sex & Gender](#section-h--sex--gender)
+    - [Section I - 👩🏿‍🤝‍👩🏻 Sexuality](#section-i--sexualityy)
+    - [Section J - 💵 Socioeconomic status](#section-j--socioeconomic-status)
 
 ## ✍ Description
 
@@ -229,7 +229,7 @@ Prompt: **Which best describes how you feel about the size of your body?**
 
 ---
 
-### Section C. 🤠 Experiences
+### Section C - 🤠 Experiences
 
 #### C.1 ↔ Privileges
 
@@ -291,7 +291,7 @@ Prompt: **Which of your identities, if any, are involved with the experiences yo
 
 ---
 
-### Section D. 🗺 Origin & Language
+### Section D - 🗺 Origin & Language
 
 #### D.1 🌍 Country of origin
 
@@ -1393,7 +1393,7 @@ Purpose: assess the degree to which language may pose a barrier to the student's
 
 Prompt: **How long, in years, have you known the language in which your classes are taught?**\
 
-### Section E. 💌 Prior Education & Support
+### Section E - 💌 Prior Education & Support
 
 #### E.1 👩‍👩‍👧 First generation student status
 
@@ -1453,7 +1453,7 @@ Prompt: **Do you have a 'chosen family'?**
 
 ---
 
-### Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity
+### Section F - 👩🏻‍🤝‍🧑🏿 Race & Ethnicity
 
 #### F.1 👨🏾‍🤝‍👨🏼 Race
 
@@ -1990,7 +1990,7 @@ Prompt: **What is your ethnicity?**
 
 ---
 
-### Section G. 🛐 Religion
+### Section G - 🛐 Religion
 
 #### G.1 ⛪ Religious affiliation
 
@@ -2015,7 +2015,7 @@ Prompt: **On a scale of 0 to 5, 0 being not at all important and 5 being most im
 
 ---
 
-### Section H. ⭕ Sex & Gender
+### Section H - ⭕ Sex & Gender
 
 #### H.1 🔖 Pronouns
 
@@ -2078,7 +2078,7 @@ Prompt: **Do you or have you ever had a uterus?**
 
 ---
 
-### Section I. 👩🏿‍🤝‍👩🏻 Sexuality
+### Section I - 👩🏿‍🤝‍👩🏻 Sexuality
 
 #### I.1 👨🏾‍🤝‍👨🏾 Sexual orientation
 
@@ -2095,7 +2095,7 @@ Prompt: **What is your sexuality?**
 
 ---
 
-### Section J. 💵 Socioeconomic status
+### Section J - 💵 Socioeconomic status
 
 #### J.1 🍔 Loan use for college expenses
 
