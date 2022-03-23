@@ -1445,7 +1445,7 @@ Prompt: **In high school, how many hours did you work per week during the summer
 
 #### E.7 💞 Chosen family status
 
-Format: **[[Y/N]](#ynu-yes-no-or-unsure)**
+Format: **[[Y/N/U]](#ynu-yes-no-or-unsure)**
 
 Purpose: assess the availability of non-traditional support systems that are analogous to traditional families
 
@@ -2050,7 +2050,7 @@ Prompt: **To which degree do you align with the following genders, 0 being the l
 
 #### H.3 🌷 Transgender status
 
-Format: **[[Y/N]](#ynu-yes-no-or-unsure)**
+Format: **[[Y/N/U]](#ynu-yes-no-or-unsure)**
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
