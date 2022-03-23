@@ -14,7 +14,7 @@ The QoS instrument consists of several questions to measure a student's Sci-ID o
 #### Instrument 2: 🧭 [Qualitative Identity Inventory (QII)](instruments/QII-qualitative_identity_inventory.md)
 
 The QII describes a comprehensive and accurate representation of their identity and determine which underrepresented identities they may possess including ability, race, ethnicity, sexuality, religion, socioeconomic status, gender, reproductive ability, body size, campus involvement, parental status, place of birth, on campus housing status, immigrant status, language, and prior education and assesses the student’s effective privileges and power.
-#### Instrument 3: 👩‍🏫 [Instructor Guideline Adherence Rating (IGAR)](IGAR-instructor_guideline_adherence_rating.md)
+#### Instrument 3: 👩‍🏫 [Instructor Guideline Adherence Rating (IGAR)](instruments/IGAR-instructor_guideline_adherence_rating.md)
 
 The IGAR instrument measures the adherence of an instructor to the recommended guidelines of the curriculum intervention. It is intended for both self-evaluation by an instructor and by an observer. Specifically, it evaluates the instructor's presentation of information and associated materials (e.g. slides, textbooks, handouts).
 
