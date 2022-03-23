@@ -19,7 +19,7 @@
 
 ## ✍ Description
 
-> The QoS instrument consists of several questions to obtain comprehensive and accurate description of respondent identities and how those identities impact their life in aims of determining what differences in identity lead to differences in Sci-ID.
+> The QII describes a comprehensive and accurate representation of their identity and determine which underrepresented identities they may possess including ability, race, ethnicity, sexuality, religion, socioeconomic status, gender, reproductive ability, body size, campus involvement, parental status, place of birth, on campus housing status, immigrant status, language, and prior education and assesses the student’s effective privileges and power.
 
 ## 📊 Metrics
 
