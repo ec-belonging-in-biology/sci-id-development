@@ -57,7 +57,7 @@ Normalization calculation: $\textrm{score} ~ \cdot ~ \frac{5}{3}$
 
 #### A.1 🔭 Perceived ability and confidence
 
-Format: **[A/D-4] 4-point agreement likert**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert) 4-point agreement likert**
 
 Purpose: Assess the respondent's perceived science self-efficacy
 
@@ -100,7 +100,7 @@ Normalization calculation: $\textrm{score} ~ \cdot ~ \frac{25}{17}$
 
 #### B.1 🩺 Applicability and efficiency of science as a problem-solving tool
 
-Format: **[A/D-4] 4-point agreement likert**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert) 4-point agreement likert**
 
 Purpose: Assess the respondent's perception of science's utility based upon expectancy-value theory
 
@@ -143,7 +143,7 @@ Normalization calculation: $\textrm{score} ~ \cdot ~ \frac{25}{12}$
 
 #### C.1 🤔 Representation and comfort
 
-Format: **[A/D-4] 4-point agreement likert**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert) 4-point agreement likert**
 
 Purpose: Assess how well the respondent feels represented in science and their comfort in existing in scientific spaces
 
@@ -184,7 +184,7 @@ Normalization calculation: $\textrm{score} ~ \cdot ~ \frac{25}{12}$
 
 #### D.1 ⚛ Confidence in and value of science
 
-Format: **[A/D-4] 4-point agreement likert**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert) 4-point agreement likert**
 
 Purpose: Assess the impact of the respondent's Sci-ID
 
@@ -201,7 +201,7 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 #### D.2 🌎 Summary outcome
 
-Format: **[A/D-4] 4-point agreement likert**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert) 4-point agreement likert**
 
 Purpose: Assess the impact of the respondent's Sci-ID
 

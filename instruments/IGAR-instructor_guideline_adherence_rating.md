@@ -47,7 +47,7 @@ The IGAR rates the instructor on a scale from 0 to 100, 0 being no adherence, 10
 
 #### 1. 📚 Glossary competency and use
 
-Format: **[FREQ-5]**
+Format: **[[FREQ-5]](#freq-5-5-point-frequency-likert)**
 
 Purpose: assess instructor adherence to the recommended terminology use
 
@@ -61,7 +61,7 @@ Prompt: **How frequently does the instructor do the following:**
 
 #### 2. ⭐ Implementation and use of recommended practices
 
-Format: **[FREQ-5]**
+Format: **[[FREQ-5]](#freq-5-5-point-frequency-likert)**
 
 Purpose: assess instructor adherence to the recommended use of best practices
 
@@ -74,7 +74,7 @@ Prompt: **How frequently does the instructor do the following:**
 
 #### 3. 👩🏾‍🔬 Diverse and accurate representation of scientists
 
-Format: **[FREQ-5]**
+Format: **[[FREQ-5]](#freq-5-5-point-frequency-likert)**
 
 Purpose: assess instructor representation of scientists for diversity and accuracy
 

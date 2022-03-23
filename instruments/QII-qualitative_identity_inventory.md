@@ -114,7 +114,7 @@ Description: This section assesses student involvement on campus and off campus 
 
 #### A.1 ⚽ Unpaid organizational activities
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Assess the amount of student's available time dedicated to involvement without monetary incentive
 
@@ -122,7 +122,7 @@ Prompt: **How many hours per week do you do unpaid organizational activities (e.
 
 #### A.2 👩‍🏫 Traditional lectures
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Determine the amount of the student's available time dedicated to academics
 
@@ -130,7 +130,7 @@ Prompt: **How many hours per weekday do you have lectures?**
 
 #### A.3 🎨 Labs & Studios
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Determine the amount of the student's available time dedicated to academics
 
@@ -138,7 +138,7 @@ Prompt: **In a typical week, how many hours per week do you spend in a lab or st
 
 #### A.4 📚 Study habits
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Determine the amount of the student's available time dedicated to academics
 
@@ -146,7 +146,7 @@ Prompt: **On average, how many hours per day do you study?**
 
 #### A.5 💤 Sleep habits
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Assess the amount of sleep the student is getting
 
@@ -154,7 +154,7 @@ Prompt: **On average, how many hours per night do you sleep?**
 
 #### A.6 🛌 Caregiver roles
 
-Format: **[A/D-4]**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert)**
 
 Purpose: Determine if the student has ever had to serve as an unpaid primary giver
 
@@ -166,7 +166,7 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 #### B.1 🚶‍♀️ Physical ability
 
-Format: **[INT 0-10]** matrix
+Format: **[[INT 0-10]](#int-0-10-any-integer-greater-than-or-equal-to-0-but-not-more-than-10)** matrix
 
 Purpose: Assess the effective physical ability of the student.
 <br> **\*Note:** this question is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
@@ -186,7 +186,7 @@ Prompt: **How difficult are the following tasks, 0 being no more difficult than 
 
 #### B.2 🧠 Mental ability
 
-Format: **[INT 0-10]** matrix
+Format: **[[INT 0-10]](#int-0-10-any-integer-greater-than-or-equal-to-0-but-not-more-than-10)** matrix
 
 Purpose: Assess the effective mental ability of the student.
 <br> **\*Note:** this question is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
@@ -205,7 +205,7 @@ Prompt: **How difficult are the following tasks, 0 being no more difficult than 
 
 #### B.3 💥 Chronic pain
 
-Format: **[INT 0-10]**
+Format: **[[INT 0-10]](#int-0-10-any-integer-greater-than-or-equal-to-0-but-not-more-than-10)**
 
 Purpose: Assess the magnitude of the student's chronic pain (if any)
 
@@ -233,7 +233,7 @@ Prompt: **Which best describes how you feel about the size of your body?**
 
 #### C.1 ↔ Privileges
 
-Format: **[A/D-4]**
+Format: **[[A/D-4]](#ad-4-4-point-agreement-likert)**
 
 Purpose: Assess what privileges the student does and does not have
 
@@ -253,7 +253,7 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 #### C.2 ⏱ Frequency of respect
 
-Format: **[FREQ-5]**
+Format: **[[FREQ-5]](#freq-5-5-point-frequency-likert)**
 
 Purpose: Assess student privilege by evaluating degree of social influence
 
@@ -552,7 +552,7 @@ Prompt: **What country were you born in?**
 
 #### D.2 👨‍👧‍👦 Guardian immigrant status
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the student's nuclear family's potential degree of displacement from family and native culture as well as systemic barriers they may have encountered
 
@@ -560,7 +560,7 @@ Prompt: **How many of your guardians are immigrants?**
 
 #### D.3 📅 Duration of displacement
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the student's degree of displacement from family and native culture
 
@@ -1379,7 +1379,7 @@ Prompt **How fluent are you in the language in which your classes are taught?**
 
 #### D.6 📘 Language acquisition quantity prior to instructional language
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the degree to which language may pose a barrier to the student's education
 
@@ -1387,7 +1387,7 @@ Prompt: **How many languages did you learn before learning the language in which
 
 #### D.7 📙 Language acquisition duration prior to instructional language
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the degree to which language may pose a barrier to the student's education
 
@@ -1397,7 +1397,7 @@ Prompt: **How long, in years, have you known the language in which your classes 
 
 #### E.1 👩‍👩‍👧 First generation student status
 
-Format: **[Y/N]**
+Format: **[[Y/N]](#yn-yes-or-no)**
 
 Purpose: assess the support likely available to the student
 
@@ -1405,7 +1405,7 @@ Prompt: **Are you a first generation college student?**
 
 #### E.2 🧒 Support systems available in K-12
 
-Format: **[DIV-5-S]**
+Format: **[[DIV-5-S]](#div-5-s-5-point-divergent-support-likert)**
 
 Purpose: assess the support available to the student while growing up
 
@@ -1413,7 +1413,7 @@ Prompt: **Please select a statement from each group that best describes how you 
 
 #### E.3 👨‍🎓 Support systems available in undergraduate education
 
-Format: **[DIV-5-S]**
+Format: **[[DIV-5-S]](#div-5-s-5-point-divergent-support-likert)**
 
 Purpose: assess the support available to the student while in an undergraduate program.
 
@@ -1421,7 +1421,7 @@ Prompt: **Please select a statement from each group that best describes how you 
 
 #### E.4 🏫 Quality of high school education
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the support available to the student from their high school
 
@@ -1429,7 +1429,7 @@ Prompt: **In high school, how many courses were offered in which you could earn 
 
 #### E.5 💼 Working during high school (in-session)
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the degree to which financial status may have posed barriers to student success in high school.
 
@@ -1437,7 +1437,7 @@ Prompt: **In high school, how many hours did you work per week during the school
 
 #### E.6 ☀ Working during high school (summer)
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: assess the degree to which financial status may have posed barriers to student success in high school.
 
@@ -1445,7 +1445,7 @@ Prompt: **In high school, how many hours did you work per week during the summer
 
 #### E.7 💞 Chosen family status
 
-Format: **[Y/N/U]**
+Format: **[[Y/N]](#ynu-yes-no-or-unsure)**
 
 Purpose: assess the availability of non-traditional support systems that are analogous to traditional families
 
@@ -2007,7 +2007,7 @@ Prompt: **What is your religion?**
 
 #### G.2 ↕ Personal value of religion
 
-Format: **[INT 0-5]**
+Format: **[[INT 0-5]](#int-0-5-any-integer-greater-than-or-equal-to-0-but-not-more-than-5)**
 
 Purpose: assess the magnitude of potential systemic barriers posed to the student and the degree to which religion influences the student's life
 
@@ -2032,7 +2032,7 @@ Prompt: **What pronouns do you use?**
 
 #### H.2 🆔 Gender
 
-Format: **[INT 0-5]** matrix
+Format: **[[INT 0-5]](#int-0-5-any-integer-greater-than-or-equal-to-0-but-not-more-than-5)** matrix
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
@@ -2050,7 +2050,7 @@ Prompt: **To which degree do you align with the following genders, 0 being the l
 
 #### H.3 🌷 Transgender status
 
-Format: **[Y/N/U]**
+Format: **[[Y/N]](#ynu-yes-no-or-unsure)**
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
@@ -2058,7 +2058,7 @@ Prompt: **Are you transgender?**
 
 #### H.4 🤗 Gender expression
 
-Format: **[INT 0-5]** matrix
+Format: **[[INT 0-5]](#int-0-5-any-integer-greater-than-or-equal-to-0-but-not-more-than-5)** matrix
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
@@ -2070,7 +2070,7 @@ Prompt: **To which degree do you align with the following gender expressions, 0 
 
 #### H.5 🐣 Reproduction
 
-Format: **[Y/N]**
+Format: **[[Y/N]](#yn-yes-or-no)**
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
@@ -2099,7 +2099,7 @@ Prompt: **What is your sexuality?**
 
 #### J.1 🍔 Loan use for college expenses
 
-Format: **[ECON-BRKT-N]**
+Format: **[[ECON-BRKT-N]](#econ-brkt-n-economic-bracket-for-necessities)**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
@@ -2107,7 +2107,7 @@ Prompt: **How much of your annual expenses related to your attendance to college
 
 #### J.2 🛍 Available spending mondey
 
-Format: **[ECON-BRKT-W]**
+Format: **[[ECON-BRKT-N]](#econ-brkt-W-economic-bracket-for-necessities)**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
@@ -2115,7 +2115,7 @@ Prompt: **How much money do you have available per semester for non-essential pu
 
 #### J.3 👨‍👨‍👦 Financial support from guardian(s)
 
-Format: **[ECON-BRKT-N]**
+Format: **[[ECON-BRKT-N]](#econ-brkt-n-economic-bracket-for-necessities)**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
@@ -2123,7 +2123,7 @@ Prompt: **How much of your money is made available to you by your guardians per 
 
 #### J.4 🎓 Institution employment
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Assess the magnitude of time and financial barriers posed to the student
 
@@ -2131,7 +2131,7 @@ Prompt: **How many hours per week do you do paid work for your educational insti
 
 #### J.5 🌆 Outside employment
 
-Format: **[INT]**
+Format: **[[INT]](#int-any-integer-greater-than-or-equal-to-0)**
 
 Purpose: Assess the magnitude of time and financial barriers posed to the student
 
