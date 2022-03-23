@@ -1,12 +1,29 @@
 # Instrument 2: Qualitative Identity Inventory (QII) 🧭
 
+## Table of Contents
+
+- [✍ Description](#--description)
+- [📊 Metrics](#---metrics)
+- [🔍 Questions](#---questions)
+    - [Standard response formats](#standard-response-formats)
+    - [Section A - 🤸‍♀️ Activity](#section-a---------activity)
+    - [Section B - 🧍‍♂️ Disability & Neurodivergence](#section-b---------disability---neurodivergence)
+    - [Section C. 🤠 Experiences](#section-c----experiences)
+    - [Section D. 🗺 Origin & Language](#section-d----origin---language)
+    - [Section E. 💌 Prior Education & Support](#section-e----prior-education---support)
+    - [Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity](#section-f-race---ethnicity)
+    - [Section G. 🛐 Religion](#section-g----religion)
+    - [Section F. ⭕ Sex & Gender](#section-f---sex---gender)
+    - [Section H. 👩🏿‍🤝‍👩🏻 Sexuality](#section-h--------------sexuality)
+    - [Section I. 💵 Socioeconomic status](#section-i----socioeconomic-status)
+
 ## ✍ Description
 
 > The QoS instrument consists of several questions to obtain comprehensive and accurate description of respondent identities and how those identities impact their life in aims of determining what differences in identity lead to differences in Sci-ID.
 
 ## 📊 Metrics
 
-The demographics regadaring the following are collected by this instrument:
+The demographics regarding the following are collected by this instrument:
 
 - Activity
 - Disability & Neurodivergence
@@ -87,10 +104,9 @@ The demographics regadaring the following are collected by this instrument:
 
 ---
 
-#### **[ECON-BKT-N]** Economic bracket for necessities
+#### **[ECON-BRKT-N]** Economic bracket for necessities
 
-#### **[ECON-BKT-W]** Economic bracket for wants
-
+#### **[ECON-BRKT-W]** Economic bracket for wants
 
 ### Section A - 🤸‍♀️ Activity
 
@@ -108,7 +124,7 @@ Prompt: **How many hours per week do you do unpaid organizational activities (e.
 
 Format: **[INT]**
 
-Purpose: Determine the amount of the student's available time is dedicated to academics
+Purpose: Determine the amount of the student's available time dedicated to academics
 
 Prompt: **How many hours per weekday do you have lectures?**
 
@@ -116,7 +132,7 @@ Prompt: **How many hours per weekday do you have lectures?**
 
 Format: **[INT]**
 
-Purpose: Determine the amount of the student's available time is dedicated to academics
+Purpose: Determine the amount of the student's available time dedicated to academics
 
 Prompt: **In a typical week, how many hours per week do you spend in a lab or studio?**
 
@@ -124,7 +140,7 @@ Prompt: **In a typical week, how many hours per week do you spend in a lab or st
 
 Format: **[INT]**
 
-Purpose: Determine the amount of the student's available time is dedicated to academics
+Purpose: Determine the amount of the student's available time dedicated to academics
 
 Prompt: **On average, how many hours per day do you study?**
 
@@ -142,7 +158,7 @@ Format: **[A/D-4]**
 
 Purpose: Determine if the student has ever had to serve as an unpaid primary giver
 
-Prompt: **Please select how much you agree or disagree with the following statement: I have had to act as an unpaid primary caregiver for over three (3) months at least one in my life.**
+Prompt: **Please select how much you agree or disagree with the following statement: I have had to act as an unpaid primary caregiver for over three (3) months at least once in my life.**
 
 ---
 
@@ -150,10 +166,10 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 #### B.1 🚶‍♀️ Physical ability
 
-Format: **[INT]** matrix
+Format: **[INT 0-10]** matrix
 
-Purpose: Assess the effective physical ability the student.
-<br> **\*Note:** this questions is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
+Purpose: Assess the effective physical ability of the student.
+<br> **\*Note:** this question is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
 
 Prompt: **How difficult are the following tasks, 0 being no more difficult than the average person, 10 being impossible?**
 
@@ -172,8 +188,8 @@ Prompt: **How difficult are the following tasks, 0 being no more difficult than 
 
 Format: **[INT 0-10]** matrix
 
-Purpose: Assess the effective mental ability the student.
-<br> **\*Note:** this questions is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
+Purpose: Assess the effective mental ability of the student.
+<br> **\*Note:** this question is intended to ask about the impact of any condition(s) and/or disability(ies) the student may have in a way that is comparable to others, does not require the disclosure of private health information, and allows for a nuanced description of how their life is affected.
 
 Prompt: **How difficult are the following tasks, 0 being no more difficult than the average person, 10 being impossible?**
 
@@ -203,13 +219,13 @@ Purpose: Assess the student's perception of their body's size
 
 Prompt: **Which best describes how you feel about the size of your body?**
 
-> | Option                                           | Mapping |
-> | ------------------------------------------------ | ------- |
-> | I think my body should be a lot bigger           | ➖2️⃣    |
-> | I think my body should be a bit bigger           | ➖1️⃣    |
-> | I think my body should be the size that I am now | ⏺0️⃣     |
-> | I think my body should be a bit smaller          | ➕1️⃣    |
-> | I think my body should be a lot bigger           | ➕2️⃣    |
+> | Option                                            | Mapping |
+> | ------------------------------------------------- | ------- |
+> | I think my body should be a lot bigger            | ➖2️⃣    |
+> | I think my body should be a bit bigger            | ➖1️⃣    |
+> | I think my body should be the size that it is now | ⏺0️⃣     |
+> | I think my body should be a bit smaller           | ➕1️⃣    |
+> | I think my body should be a lot bigger            | ➕2️⃣    |
 
 ---
 
@@ -225,9 +241,9 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 > | Statement                                                                                                                                | Score mapping   |
 > | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-> | I am treated differently by peers because one or more of my identities                                                                   | 📉 Inverse      |
-> | I am treated differently outside my family in positions of advising, guidance, and/or power because of one or more of my identities      | 📉 Inverse      |
-> | I am treated differently from my family in positions of advising, guidance, and/or power because of one or more of my identities         | 📉 Inverse      |
+> | I am treated differently by others because of one or more of my identities                                                               | 📉 Inverse      |
+> | I am treated differently by people in positions of advising, guidance, and/or power because of one or more of my identities              | 📉 Inverse      |
+> | I am treated differently by my family members because of one or more of my identities                                                    | 📉 Inverse      |
 > | My institution has made policies, given statements, or done other things that disproportionately target(ed) one or more of my identities | 📉 Inverse      |
 > | My government has made policies, given statements, or done other things that disproportionately target(ed) one or more of my identities  | 📉 Inverse      |
 > | In order to get where I am today, I have had to repeatedly repress my expression of one or more of my identities for over one (1) year   | 📉 Inverse      |
@@ -239,7 +255,7 @@ Prompt: **Please select how much you agree or disagree with the following statem
 
 Format: **[FREQ-5]**
 
-Purpose: Assess student privilege by determining frequency of respect from peers
+Purpose: Assess student privilege by evaluating degree of social influence
 
 Prompt: **Please select how often these statements are true:**
 
@@ -1437,7 +1453,7 @@ Prompt: **Do you have a 'chosen family'?**
 
 ---
 
-### Section F. Race & Ethnicity
+### Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity
 
 #### F.1 👨🏾‍🤝‍👨🏼 Race
 
@@ -1449,7 +1465,7 @@ Prompt: **What is your race?**
 
 > - Asian
 > - Alaskan Native
-> - Black 
+> - Black
 > - Hispanic
 > - Indigenous
 > - Latina/o/e/x
@@ -1529,7 +1545,6 @@ Prompt: **What is your ethnicity?**
     - Bemba
     - Bembe
     - Bengalis
-    - 
     - Berbers
     - Berom
     - Berta
@@ -1792,7 +1807,6 @@ Prompt: **What is your ethnicity?**
     - Mon
     - Mongo
     - Mongols
-    - 
     - Mongondow
     - Montenegrins
     - Mordvins
@@ -1971,6 +1985,7 @@ Prompt: **What is your ethnicity?**
     - Zhuang
     - Zomi
     - Zulu
+
 </details>
 
 ---
@@ -2000,9 +2015,9 @@ Prompt: **On a scale of 0 to 5, 0 being not at all important and 5 being most im
 
 ---
 
-### Section F. ⭕ Sex & Gender
+### Section H. ⭕ Sex & Gender
 
-#### F.1 🔖 Pronouns
+#### H.1 🔖 Pronouns
 
 Format: **Select all that apply with 'other'**
 
@@ -2015,7 +2030,7 @@ Prompt: **What pronouns do you use?**
     TODO: ADD THE OPTIONS!!!
 </details>
 
-#### F.2 🆔 Gender
+#### H.2 🆔 Gender
 
 Format: **[INT 0-5]** matrix
 
@@ -2033,29 +2048,29 @@ Prompt: **To which degree do you align with the following genders, 0 being the l
 > - Agender
 > - Questioning
 
-#### F.3 🌷 Transgender status
+#### H.3 🌷 Transgender status
 
-Format: **[Y/N/U]** 
+Format: **[Y/N/U]**
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
 Prompt: **Are you transgender?**
 
-#### F.4 🤗 Gender expression
+#### H.4 🤗 Gender expression
 
 Format: **[INT 0-5]** matrix
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
-Prompt: **To which degree do you align with the following expressions, 0 being the least, 5 being the most?**
+Prompt: **To which degree do you align with the following gender expressions, 0 being the least, 5 being the most?**
 
 > - Androgynous
 > - Masculine
 > - Feminine
 
-#### F.5 🐣 Reproductiion
+#### H.5 🐣 Reproduction
 
-Format: **[Y/N]** 
+Format: **[Y/N]**
 
 Purpose: Assess the magnitude of potential systemic barriers posed to the student
 
@@ -2063,9 +2078,9 @@ Prompt: **Do you or have you ever had a uterus?**
 
 ---
 
-### Section H. 👩🏿‍🤝‍👩🏻 Sexuality
+### Section I. 👩🏿‍🤝‍👩🏻 Sexuality
 
-#### H.1 👨🏾‍🤝‍👨🏾 Sexual orientation
+#### I.1 👨🏾‍🤝‍👨🏾 Sexual orientation
 
 Format: **Select all that apply with 'other'**
 
@@ -2080,33 +2095,33 @@ Prompt: **What is your sexuality?**
 
 ---
 
-### Section I. 💵 Socioeconomic status
+### Section J. 💵 Socioeconomic status
 
-#### I.1 🍔 Loan use for college expenses
+#### J.1 🍔 Loan use for college expenses
 
-Format: **[ECON-BCKT-N]**
+Format: **[ECON-BRKT-N]**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
 Prompt: **How much of your annual expenses related to your attendance to college (e.g. tuition, living, food) are paid for using loans?**
 
-#### I.2 🛍 Available spending mondey
+#### J.2 🛍 Available spending mondey
 
-Format: **[ECON-BCKT-W]**
+Format: **[ECON-BRKT-W]**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
 Prompt: **How much money do you have available per semester for non-essential purchases?**
 
-#### I.3 👨‍👨‍👦 Financial support from guardian(s)
+#### J.3 👨‍👨‍👦 Financial support from guardian(s)
 
-Format: **[ECON-BCKT-N]**
+Format: **[ECON-BRKT-N]**
 
 Purpose: Assess the magnitude of financial barriers posed to the student
 
 Prompt: **How much of your money is made available to you by your guardians per semester?**
 
-#### I.4 🎓 Institution employment
+#### J.4 🎓 Institution employment
 
 Format: **[INT]**
 
@@ -2114,11 +2129,10 @@ Purpose: Assess the magnitude of time and financial barriers posed to the studen
 
 Prompt: **How many hours per week do you do paid work for your educational institution?**
 
-#### I.5 🌆 Outside employment
+#### J.5 🌆 Outside employment
 
 Format: **[INT]**
 
 Purpose: Assess the magnitude of time and financial barriers posed to the student
 
 Prompt: **How many hours per week do you do paid work for a business other than your educational institution?**
-

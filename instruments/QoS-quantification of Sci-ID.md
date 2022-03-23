@@ -1,5 +1,16 @@
 # Instrument 1: Quantification of Sci-ID (QoS) 👩‍🔬
 
+## Table of Contents
+
+ * [✍ Description](#--description)
+  * [📊 Metrics](#---metrics)
+  * [🔍 Questions](#---questions)
+    + [Standard response formats](#standard-response-formats)
+    + [Section A - 🧪 Science self-efficacy](#section-a------science-self-efficacy)
+    + [Section B - ⚖ Perception of Science Utility Based in Expectancy-Value Theory](#section-b-----perception-of-science-utility-based-in-expectancy-value-theory)
+    + [Section C - 🤝 Sense of Belonging in Science](#section-c------sense-of-belonging-in-science)
+    + [Section D - ⚒ Effective Sci-ID](#section-d-----effective-sci-id)
+
 ## ✍ Description
 
 > The QoS instrument consists of several questions to measure a student's Sci-ID over its three domains -- self-efficacy, sense of belonging, and perception that science is useful -- and their cumulative effect.
@@ -185,7 +196,7 @@ Prompt: **Please select how much you agree or disagree with the following statem
 > | ---------------------------------------------------------------------------------------------------- | --------------- |
 > | Science is an empowering skill                                                                       | 📈 Proportional |
 > | I can use science to make powerful/meaningful change in my life                                      | 📈 Proportional |
-> | I see people like me doing I prefer getting an assignment from a textbook over choosing my own topic | 📉 Inverse      |
+> | I prefer getting an assignment from a textbook over choosing my own topic | 📉 Inverse      |
 > | Learning about science makes me see opportunities to apply it in everyday life                       | 📈 Proportional |
 
 #### D.2 🌎 Summary outcome
