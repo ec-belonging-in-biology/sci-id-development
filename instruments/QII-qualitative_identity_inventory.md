@@ -2,20 +2,20 @@
 
 ## Table of Contents
 
-- [✍ Description](#--description)
-- [📊 Metrics](#---metrics)
-- [🔍 Questions](#---questions)
+- [✍ Description](#-description)
+- [📊 Metrics](#-metrics)
+- [🔍 Questions](#-questions)
     - [Standard response formats](#standard-response-formats)
-    - [Section A - 🤸‍♀️ Activity](#section-a---------activity)
-    - [Section B - 🧍‍♂️ Disability & Neurodivergence](#section-b---------disability---neurodivergence)
-    - [Section C. 🤠 Experiences](#section-c----experiences)
-    - [Section D. 🗺 Origin & Language](#section-d----origin---language)
-    - [Section E. 💌 Prior Education & Support](#section-e----prior-education---support)
-    - [Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity](#section-f-race---ethnicity)
-    - [Section G. 🛐 Religion](#section-g----religion)
-    - [Section F. ⭕ Sex & Gender](#section-f---sex---gender)
-    - [Section H. 👩🏿‍🤝‍👩🏻 Sexuality](#section-h--------------sexuality)
-    - [Section I. 💵 Socioeconomic status](#section-i----socioeconomic-status)
+    - [Section A - 🤸‍♀️ Activity](#section-a---%EF%B8%8F-activity)
+    - [Section B - 🧍‍♂️ Disability & Neurodivergence](#section-b---%EF%B8%8F-disability--neurodivergence)
+    - [Section C. 🤠 Experiences](#section-c--experiences)
+    - [Section D. 🗺 Origin & Language](#section-d--origin--language)
+    - [Section E. 💌 Prior Education & Support](#section-e--prior-education--support)
+    - [Section F. 👩🏻‍🤝‍🧑🏿 Race & Ethnicity](#section-f--race--ethnicity)
+    - [Section G. 🛐 Religion](#section-g--religion)
+    - [Section H. ⭕ Sex & Gender](#section-h--sex--gender)
+    - [Section I. 👩🏿‍🤝‍👩🏻 Sexuality](#section-i--sexualityy)
+    - [Section J. 💵 Socioeconomic status](#section-j--socioeconomic-status)
 
 ## ✍ Description
 
@@ -1443,7 +1443,7 @@ Purpose: assess the degree to which financial status may have posed barriers to 
 
 Prompt: **In high school, how many hours did you work per week during the summer at a job out of necessity?**
 
-#### E.6 💞 Chosen family status
+#### E.7 💞 Chosen family status
 
 Format: **[Y/N/U]**
 
@@ -1473,7 +1473,7 @@ Prompt: **What is your race?**
 > - Native Hawaiian
 > - White
 
-### F.2 🌏 Ethnicity
+#### F.2 🌏 Ethnicity
 
 Format: **Select all that apply with 'other'**
 

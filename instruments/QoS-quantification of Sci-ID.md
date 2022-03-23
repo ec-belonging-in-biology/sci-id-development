@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
- * [✍ Description](#--description)
-  * [📊 Metrics](#---metrics)
-  * [🔍 Questions](#---questions)
-    + [Standard response formats](#standard-response-formats)
-    + [Section A - 🧪 Science self-efficacy](#section-a------science-self-efficacy)
-    + [Section B - ⚖ Perception of Science Utility Based in Expectancy-Value Theory](#section-b-----perception-of-science-utility-based-in-expectancy-value-theory)
-    + [Section C - 🤝 Sense of Belonging in Science](#section-c------sense-of-belonging-in-science)
-    + [Section D - ⚒ Effective Sci-ID](#section-d-----effective-sci-id)
+- [✍ Description](#-description)
+- [📊 Metrics](#-metrics)
+- [🔍 Questions](#-questions)
+  - [Standard response formats](#standard-response-formats)
+  - [Section A - 🧪 Science self-efficacy](#section-a----science-self-efficacy)
+  - [Section B - ⚖ Perception of Science Utility Based in Expectancy-Value Theory](#section-b----perception-of-science-utility-based-in-expectancy-value-theory)
+  - [Section C - 🤝 Sense of Belonging in Science](#section-c----sense-of-belonging-in-science)
+  - [Section D - ⚒ Effective Sci-ID](#section-d----effective-sci-id)
 
 ## ✍ Description
 
@@ -86,8 +86,8 @@ Prompt: **Complete following statement: 'When I'm stuck on something in science,
 > | ------------------------------------------------- | ------------------------------------ |
 > | I can usually figure it out right away            | 3️⃣                                   |
 > | It takes some time, but I can usually work it out | 2️⃣                                   |
-> | I can become good at science                      | 1️⃣                                   |
-> | I can do useful things with science               | 0️⃣                                   |
+> | I often can't figure out the problem              | 1️⃣                                   |
+> | I don't even know where to start                  | 0️⃣                                   |
 > | Other (please elaborate)                          | hand adjudicated based upon response |
 
 ---
@@ -192,12 +192,12 @@ Possible points: **12**
 
 Prompt: **Please select how much you agree or disagree with the following statements:**
 
-> | Statement                                                                                            | Score mapping   |
-> | ---------------------------------------------------------------------------------------------------- | --------------- |
-> | Science is an empowering skill                                                                       | 📈 Proportional |
-> | I can use science to make powerful/meaningful change in my life                                      | 📈 Proportional |
-> | I prefer getting an assignment from a textbook over choosing my own topic | 📉 Inverse      |
-> | Learning about science makes me see opportunities to apply it in everyday life                       | 📈 Proportional |
+> | Statement                                                                      | Score mapping   |
+> | ------------------------------------------------------------------------------ | --------------- |
+> | Science is an empowering skill                                                 | 📈 Proportional |
+> | I can use science to make powerful/meaningful change in my life                | 📈 Proportional |
+> | I prefer getting an assignment from a textbook over choosing my own topic      | 📉 Inverse      |
+> | Learning about science makes me see opportunities to apply it in everyday life | 📈 Proportional |
 
 #### D.2 🌎 Summary outcome
 
@@ -209,6 +209,6 @@ Possible points: **3**
 
 Prompt: **Please select how much you agree or disagree with the following statement:**
 
-> | Statement                            | Score mapping   |
+> | Statement                         | Score mapping   |
 > | --------------------------------- | --------------- |
 > | I can do real things with science | 📈 Proportional |

@@ -1,13 +1,13 @@
 # Instrument 3: Instructor Guideline Adherence Rating (IGAR) 👩‍🏫
 
 ## Table of Contents
-* [✍ Description](#--description)
-  * [📊 Metrics](#---metrics)
-  * [🔍 Questions](#---questions)
+* [✍ Description](#-description)
+  * [📊 Metrics](#-metrics)
+  * [🔍 Questions](#-questions)
     + [Standard response formats](#standard-response-formats)
-    - [1. 📚 Glossary competency and use](#1----glossary-competency-and-use)
-    - [2. ⭐ Implementation and use of recommended practices](#2---implementation-and-use-of-recommended-practices)
-    - [3. 👩🏾‍🔬 Diverse and accurate representation of scientists](#3---------diverse-and-accurate-representation-of-scientists)
+    - [1. 📚 Glossary competency and use](#1--glossary-competency-and-use)
+    - [2. ⭐ Implementation and use of recommended practices](#2--implementation-and-use-of-recommended-practices)
+    - [3. 👩🏾‍🔬 Diverse and accurate representation of scientists](#3--diverse-and-accurate-representation-of-scientists)
 
 ## ✍ Description
 
