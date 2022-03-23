@@ -11,3 +11,4 @@
 *.aux
 .vscode/*
 .vscode/
+node_modules/
