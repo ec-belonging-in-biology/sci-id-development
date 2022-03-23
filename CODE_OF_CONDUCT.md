@@ -2,7 +2,7 @@
 
 ## 🎯 Our Goal
 
-Our top priority is to develop the scientific identity of all students in the STEM undegraduate setting. To do so, we must cultivate community in the classroom, but also on our repository. We need to maintain an environment that is:
+Our top priority is to develop the scientific identity of all students in the STEM undergraduate setting. To do so, we must cultivate community in the classroom, but also on our repository. We need to maintain an environment that is:
 
 * Safe
 * And makes space to be:
@@ -23,7 +23,7 @@ This Code of Conduct is not granularly comprehensive, but rather outlines genera
 
 ## ⚖️ Our Community Standards
 
-These community standards are set forth in order to best acheive our goal for this project.
+These community standards are set forth in order to best achieve our goal for this project.
 
 Participants are expected to:
 
@@ -34,7 +34,7 @@ Participants are expected to:
 * Make claims based upon cited evidence
 * Act in interest of the whole community rather than the individual
 * Advocate for others
-* Prioritize the voices of those less privileged then them
+* Prioritize the voices of those less privileged than them
 * Report violations of the community standards to our maintainers
 * Adhere to contributing guidelines
 
@@ -48,7 +48,7 @@ Participants are prohibited from:
 * Making personal attacks against one another
 * Trolling, insulting or derogatory comments
 * Using slurs*
-* 'Doxing' or publishing others' private information, including but not limited to: contact information, identities, and asssets
+* 'Doxing' or publishing others' private information, including but not limited to: contact information, identities, and assets
 * The use of sexualized language or imagery and sexual advances or attention of any kind
 * Spamming the repository, participants, and/or maintainers
 * Any actions that could reasonably be considered revoking power or making an unsafe environment for an individual less privileged than oneself
@@ -88,7 +88,7 @@ Depending on the magnitude of the impact, any number of the following sanctions 
 
 #### 3.1 Warning
 
-**Impact**: An impact with a relatively low impact that does not cause any time-sensative harm may be given a warning.
+**Impact**: An impact with a relatively low impact that does not cause any time-sensitive harm may be given a warning.
 
 **Sanction**: A warning will be administered to the participant with a descriptions of how they violated the code of conduct and a definition of further sanctions for continued behavior. Expectations that the participant corrects their contribution within 21 days of the warning being given will be established. The participant's correction will be guided and evaluated by leaders and/or maintainers and then approved, edited, or rejected. Failure to correct the contribution within 21 days may result in further sanctions and/or removal of the contribution.
 
@@ -96,7 +96,7 @@ Depending on the magnitude of the impact, any number of the following sanctions 
 
 **Impact**: An impact with any degree of severity that may cause time-sensitive harm or a repeated impact with reasonably clear malintent may result in a temporary ban.
 
-**Senction**: A participant may receive a temporary ban from the repository and/or organization to prohibit them from making any further harmful contributions until they demonstrate a sufficient understanding of their impact, plan for correction, and are prepared to apologize. Participants temporarily banned will be notified officially via email by the leaders and/or maintainers in which their violation will be defined and guidance for remedy will be given. Sanctions for repeated harmful impacts will also be defined. The participant's harmful contribution may be removed until an adequate correction is made. Their reentry to the community and/or repository is at the discretion of the leaders and maintainers pending they deem the correction is reasonably adequate. A conduct meeting may also be required for reentry at the discretion of the leaders and maintainers
+**Sanction**: A participant may receive a temporary ban from the repository and/or organization to prohibit them from making any further harmful contributions until they demonstrate a sufficient understanding of their impact, plan for correction, and are prepared to apologize. Participants temporarily banned will be notified officially via email by the leaders and/or maintainers in which their violation will be defined and guidance for remedy will be given. Sanctions for repeated harmful impacts will also be defined. The participant's harmful contribution may be removed until an adequate correction is made. Their reentry to the community and/or repository is at the discretion of the leaders and maintainers pending they deem the correction is reasonably adequate. A conduct meeting may also be required for reentry at the discretion of the leaders and maintainers
 
 ### 3.3 Permanent Ban
 
